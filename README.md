@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Moiz Sethi 👋
 
-<!--
-**MoizSethi/MoizSethi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack MERN Developer focused on building scalable SaaS platforms, CRM systems, real-time applications, and operational business software.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+
+* React.js
+* Next.js
+* JavaScript
+* Tailwind CSS
+
+### Backend
+
+* Node.js
+* Express.js
+* REST APIs
+
+### Databases
+
+* MySQL
+* Firebase
+* MongoDB
+
+## Current Focus
+
+* Predictive Dialer Systems
+* AI Automation Workflows
+* Real-Time Communication Platforms
+* SaaS Architectures
+
+## Professional Experience
+
+* 4+ years of Full Stack MERN development
+* International client projects
+* CRM & Dashboard systems
+* Operational workflow automation
+* Production-ready web applications
+
+## Open To
+
+* Europe Relocation Opportunities
+* Full Stack Engineering Roles
+* SaaS/Product Development Teams
+
+## Connect With Me
+
+* LinkedIn: linkedin.com/in/moiz-sethi
+* Email: [m.moizsethi@gmail.com](mailto:m.moizsethi@gmail.com)
