@@ -10,7 +10,7 @@ My work focuses on solving real operational problems with scalable software, cle
 
 ## 🚀 Featured Projects
 
-### 🏋️ Gymora — Gym Management ERP & SaaS Platform
+### 🏋️ Fit IT — Gym Management ERP & SaaS Platform
 A multi-role fitness operations platform for **gym owners, trainers, and members**.
 
 **Highlights:**
