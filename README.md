@@ -40,9 +40,11 @@ Full Stack MERN Developer focused on building scalable SaaS platforms, CRM syste
 
 ## Open To
 
-* Europe Relocation Opportunities
-* Full Stack Engineering Roles
-* SaaS/Product Development Teams
+* Full-Stack & Product Engineering Opportunities
+* SaaS / Web Application Development Projects
+* Remote International Collaboration
+* Freelance & Contract Development
+* Product-Focused Engineering Teams
 
 ## Connect With Me
 
